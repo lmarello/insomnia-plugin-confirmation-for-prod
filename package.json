@@ -1,0 +1,31 @@
+{
+  "author": "lmarello",
+  "bugs": {
+    "url": "https://github.com/lmarello/insomnia-plugin-confirmation-for-prod/issues"
+  },
+  "description": "Confirmation of the request to be sent will be requested if the 'shouldConfirm' property is set to true in the environment configuration.",
+  "homepage": "https://github.com/lmarello/insomnia-plugin-confirmation-for-prod#readme",
+  "insomnia": {
+    "name": "Request confirmation",
+    "description": "Confirmation of the request to be sent will be requested if the 'shouldConfirm' property is set to true in the environment configuration.",
+    "publisher": {
+      "name": "Leo Marelo",
+      "icon": "https://github.com/lmarello"
+    },
+    "unlisted": true
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "confirmation",
+    "request"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "insomnia-plugin-request-confirmation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmarello/insomnia-plugin-confirmation-for-prod.git"
+  },
+  "version": "1.0.0"
+}
